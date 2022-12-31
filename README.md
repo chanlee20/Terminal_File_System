@@ -1,4 +1,12 @@
-# Terminal_File_System
+#Terminal_File_System
+
+Demo:
+
+
+https://user-images.githubusercontent.com/70008295/210139717-d1cae56d-e5f4-41ff-8c63-05a31190a696.mp4
+
+
+
 
 Introduction:
 This is a software program that mimics common terminal commands. The program allows file system management where users can interact with each of the text files by creating them, editing/writing them, showing them and more. The code is written focused on object oriented coding principles including prototype pattern, visitor pattern and more.
